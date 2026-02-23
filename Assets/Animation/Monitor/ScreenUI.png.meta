@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 1a188344ff0f3ece39ad1dc8da62ba80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6206413012980014935
+    second: Monitor (5)_0
+  - first:
+      213: -6021951849773927376
+    second: Monitor (5)_1
+  - first:
+      213: -4511383313261806094
+    second: Monitor (5)_2
+  - first:
+      213: 7568401457233745863
+    second: Monitor (5)_3
+  - first:
+      213: -1937707083746980553
+    second: Monitor (5)_4
+  - first:
+      213: -8453949248972179980
+    second: Monitor (5)_5
+  - first:
+      213: -5832949826073135154
+    second: Monitor (5)_6
+  - first:
+      213: -3960948201938402206
+    second: Monitor (5)_7
+  - first:
+      213: 5424807956887818125
+    second: Monitor (5)_8
+  - first:
+      213: 8990399387619534270
+    second: Monitor (5)_9
+  - first:
+      213: 9200362754838695411
+    second: Monitor (5)_10
+  - first:
+      213: 7477926561433780229
+    second: Monitor (5)_11
+  - first:
+      213: 1354872390311744192
+    second: Monitor (5)_12
+  - first:
+      213: 4617541857716215947
+    second: Monitor (5)_13
+  - first:
+      213: 2303086712143448425
+    second: Monitor (5)_14
+  - first:
+      213: 3001052119051273768
+    second: Monitor (5)_15
+  - first:
+      213: -7534100307819729286
+    second: Monitor (5)_16
+  - first:
+      213: -5384923708227631779
+    second: Monitor (5)_17
+  - first:
+      213: 8176434041484469711
+    second: Monitor (5)_18
+  - first:
+      213: 1403870013784858212
+    second: Monitor (5)_19
+  - first:
+      213: -46115357368682126
+    second: Monitor (5)_20
+  - first:
+      213: 625628906643306696
+    second: Monitor (5)_21
+  - first:
+      213: 7643037641036270760
+    second: Monitor (5)_22
+  - first:
+      213: 7709257141205317560
+    second: Monitor (5)_23
+  - first:
+      213: 4480602737538315970
+    second: Monitor (5)_24
+  - first:
+      213: -3829725088321391587
+    second: Monitor (5)_25
+  - first:
+      213: -2934759811898411360
+    second: Monitor (5)_26
+  - first:
+      213: -2266428656851263820
+    second: Monitor (5)_27
+  - first:
+      213: -6815663318475600246
+    second: Monitor (5)_28
+  - first:
+      213: -5302064255282166939
+    second: Monitor (5)_29
+  - first:
+      213: 6692650596618199848
+    second: Monitor (5)_30
+  - first:
+      213: 2323684611554990716
+    second: Monitor (5)_31
+  - first:
+      213: -760390321253812119
+    second: Monitor (5)_32
+  - first:
+      213: -209122531069213188
+    second: Monitor (5)_33
+  - first:
+      213: 1465745275664251150
+    second: Monitor (5)_34
+  - first:
+      213: -1129668034930534513
+    second: Monitor (5)_35
+  - first:
+      213: -7261475701952907831
+    second: Monitor (5)_36
+  - first:
+      213: -3869091191130630542
+    second: Monitor (5)_37
+  - first:
+      213: -3874330450861465361
+    second: Monitor (5)_38
+  - first:
+      213: 4280563570730063399
+    second: Monitor (5)_39
+  - first:
+      213: -3775253532106315324
+    second: Monitor (5)_40
+  - first:
+      213: 9145797646081461782
+    second: Monitor (5)_41
+  - first:
+      213: -7356887085869368270
+    second: Monitor (5)_42
+  - first:
+      213: -5357119257399928872
+    second: Monitor (5)_43
+  - first:
+      213: -4238100505673937759
+    second: Monitor (5)_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 623, y: 209, z: 632, w: 318}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monitor (5)_0
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 208
+        width: 673
+        height: 555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0e6f76f346ed9a0800000000000000
+      internalID: -6206413012980014935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monitor (5)_0: -6206413012980014935
+      Monitor (5)_1: -6021951849773927376
+      Monitor (5)_10: 9200362754838695411
+      Monitor (5)_11: 7477926561433780229
+      Monitor (5)_12: 1354872390311744192
+      Monitor (5)_13: 4617541857716215947
+      Monitor (5)_14: 2303086712143448425
+      Monitor (5)_15: 3001052119051273768
+      Monitor (5)_16: -7534100307819729286
+      Monitor (5)_17: -5384923708227631779
+      Monitor (5)_18: 8176434041484469711
+      Monitor (5)_19: 1403870013784858212
+      Monitor (5)_2: -4511383313261806094
+      Monitor (5)_20: -46115357368682126
+      Monitor (5)_21: 625628906643306696
+      Monitor (5)_22: 7643037641036270760
+      Monitor (5)_23: 7709257141205317560
+      Monitor (5)_24: 4480602737538315970
+      Monitor (5)_25: -3829725088321391587
+      Monitor (5)_26: -2934759811898411360
+      Monitor (5)_27: -2266428656851263820
+      Monitor (5)_28: -6815663318475600246
+      Monitor (5)_29: -5302064255282166939
+      Monitor (5)_3: 7568401457233745863
+      Monitor (5)_30: 6692650596618199848
+      Monitor (5)_31: 2323684611554990716
+      Monitor (5)_32: -760390321253812119
+      Monitor (5)_33: -209122531069213188
+      Monitor (5)_34: 1465745275664251150
+      Monitor (5)_35: -1129668034930534513
+      Monitor (5)_36: -7261475701952907831
+      Monitor (5)_37: -3869091191130630542
+      Monitor (5)_38: -3874330450861465361
+      Monitor (5)_39: 4280563570730063399
+      Monitor (5)_4: -1937707083746980553
+      Monitor (5)_40: -3775253532106315324
+      Monitor (5)_41: 9145797646081461782
+      Monitor (5)_42: -7356887085869368270
+      Monitor (5)_43: -5357119257399928872
+      Monitor (5)_44: -4238100505673937759
+      Monitor (5)_5: -8453949248972179980
+      Monitor (5)_6: -5832949826073135154
+      Monitor (5)_7: -3960948201938402206
+      Monitor (5)_8: 5424807956887818125
+      Monitor (5)_9: 8990399387619534270
+      ScreenUI_0: 887699202
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
